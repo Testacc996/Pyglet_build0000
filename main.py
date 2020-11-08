@@ -1,7 +1,7 @@
 import pyglet
 
 window = pyglet.window.Window()
-label = pyglet.text.Label('Hello, world',
+label = pyglet.text.Label('This is amazing',
                           font_name='Times New Roman',
                           font_size=36,
                           x=window.width//2, y=window.height//2,
