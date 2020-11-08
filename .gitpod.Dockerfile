@@ -24,8 +24,7 @@ RUN sudo apt-get -q update && \
     python3-future \       
     python3-png \
     libasound2 \
-    libpulse0 \
-    pyglet && \
+    libpulse0 && \
     sudo rm -rf /var/lib/apt/lists/*
 
 # Install custom tools, runtime, etc. using apt-get
