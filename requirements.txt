@@ -1,3 +1,2 @@
 pyglet
 GL
-freeglut3-dev
