@@ -1,2 +1,2 @@
 # Pyglet_build0000
-Exercises with pyglet
+Pyglet image configured for gitpod
